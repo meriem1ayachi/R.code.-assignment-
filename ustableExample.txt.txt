@@ -1,0 +1,6 @@
+state   value
+IOWA      2
+New York  1
+Goargia   2
+Maryland  1
+New Jersy 1
