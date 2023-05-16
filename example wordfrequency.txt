@@ -1,0 +1,11 @@
+             word freq
+said         said  141
+kitti       kitti  116
+one           one  110
+like         like  108
+chris       chris  103
+hand         hand   80
+know         know   75
+margaret margaret   72
+see           see   69
+though     though   66
